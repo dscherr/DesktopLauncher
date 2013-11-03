@@ -1,0 +1,8 @@
+shortcut,name,target,ffen-link-in-browser
+
+# Comments
+
+e,explorer,explorer
++c,c:,c:\
++pr,+programs,%programfiles%
+7z,7zip,%+pr%\7-Zip\7zG.exe
